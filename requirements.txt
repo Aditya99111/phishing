@@ -4,3 +4,4 @@ requests==2.31.0
 python-googlesearch==1.1.1
 python-whois==0.8.0
 numpy==1.21.6
+gunicorn==21.2.0
